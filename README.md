@@ -1,1 +1,1 @@
-The Game of Life is a cellular automaton invented by the English mathematician John Conway in 1970.[1] It is a game without players[2][3] in which a person creates an initial state and then only observes its development.
+Игра «Жизнь» — клеточный автомат, изобретенный английским математиком Джоном Конвеем в 1970 году.[1] Это игра без игроков[2][3], в которой человек создает начальное состояние, а затем только наблюдает за его развитием.
